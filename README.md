@@ -19,3 +19,7 @@ potentially questions might be asked and answered.
 
 **I recommend that you try and create at least one descriptive table using the tableone
 package.
+
+## problems
+
+I had problems pushing the code with big files. I had to create a new repo inorder for me to add .csv and *.csv files into .gitignore for me to push the code to repo
